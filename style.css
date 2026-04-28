@@ -140,7 +140,7 @@ img {
 }
 .gate-text {
   font-family: "Orbitron", "Inter", sans-serif;
-  font-size: clamp(100px, 22vw, 360px);
+  font-size: clamp(100px, 15vw, 360px);
   font-weight: 400;
   letter-spacing: 0.02em;
   color: var(--brand-cyan);
